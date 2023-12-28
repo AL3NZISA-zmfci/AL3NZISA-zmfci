@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al3nzisa-zmfci&label=Profile%20views&color=0e75b6&style=flat" alt="al3nzisa-zmfci" /> </p>
 
-- 🔭 I’m currently working on [SlowCrystals](slowcrystals.xyz)
+- 🔭 I’m currently working on [HerosMC](https://discord.gg/heros)
 
 - 🌱 I’m currently learning **Java**
 
