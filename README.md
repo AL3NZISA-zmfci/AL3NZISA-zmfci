@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [HerosMC](https://discord.gg/heros)
 
-- 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **Skript**
 
 - 📫 How to reach me **AL3NZISA (discord)**
